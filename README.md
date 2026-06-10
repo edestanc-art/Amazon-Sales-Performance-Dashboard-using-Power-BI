@@ -81,12 +81,8 @@ Increase marketing and sales efforts in underperforming regions with growth pote
 Product Portfolio Strategy
 Promote highly profitable products through targeted campaigns to increase overall profitability.
 Dashboard Preview
-Executive Dashboard
-(Add dashboard screenshot here)
-Markdown
-![Amazon Dashboard](Dashboard.png)
-Project Structure
-Plain text
+
+Project StrucStructuren text
 Amazon-Sales-Dashboard/
 │
 ├── README.md
@@ -113,5 +109,3 @@ Excel
 Data Visualization
 Business Analytics
 Google Data Analytics Professional Certificate
-GitHub Repository Description (Short Version)
-Interactive Power BI dashboard analyzing Amazon sales performance, profitability, customer behavior, product performance, and geographic sales trends. Features KPI monitoring, trend analysis, profitability insights, and business recommendations.
