@@ -88,6 +88,8 @@ Product Portfolio Strategy
 Promote highly profitable products through targeted campaigns to increase overall Profitability.
 # Dashboard Preview
 Executive Dashboard
+![<img width="1319" height="593" alt="Annotation 2026-06-11 045358" src="https://github.com/user-attachments/assets/e0624483-92fd-4c05-a188-20d22d56218d" />
+
 
 
 
