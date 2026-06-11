@@ -1,10 +1,10 @@
-# ##AMAZON SALES PERFORMANCE DASHBOARD
+# MAZON SALES PERFORMANCE DASHBOARD
 
-# ##Project Overview
+# Project Overview
 
 This project presents an interactive Amazon Sales Performance Dashboard developed using Power BI. The dashboard provides insights into sales performance, profitability, customer behavior, product performance, and geographical sales distribution. The objective is to support data-driven decision-making by identifying key revenue drivers, profitable products, high-value customers, and market opportunities.
 
-Business Problem#
+# Business Problem
 Organizations need visibility into sales trends, profitability, customer purchasing patterns, and product performance to make informed business decisions. This project analyzes Amazon sales data to answer critical business questions such as:
 * How much revenue was generated?
 * Which products contribute the most sales and profit?
@@ -16,7 +16,7 @@ Power BI
 Microsoft Excel
 DAX (Data Analysis Expressions)
 
-Dataset Description
+# Dataset Description
 The dataset contains transactional sales records including:
 Order Date
 Product Name
