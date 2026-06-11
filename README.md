@@ -1,4 +1,4 @@
-# MAZON SALES PERFORMANCE DASHBOARD
+# AMAZON SALES PERFORMANCE DASHBOARD
 
 # Project Overview
 
@@ -89,6 +89,26 @@ Promote highly profitable products through targeted campaigns to increase overal
 # Dashboard Preview
 Executive Dashboard
 ![<img width="1319" height="593" alt="Annotation 2026-06-11 045358" src="https://github.com/user-attachments/assets/e0624483-92fd-4c05-a188-20d22d56218d" />
+Skills Demonstrated
+Data Cleaning
+Data Modeling
+DAX Measures
+KPI Development
+Business Intelligence
+Dashboard Design
+Data Visualization
+Business Insights Generation
+Storytelling with Data
+
+Author
+Ede Stan. C.
+Aspiring Data Analyst with expertise in:
+Statistics
+Power BI
+Excel
+Data Visualization
+Business Analytics
+Google Data Analytics Professional Certificate
 
 
 
