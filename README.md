@@ -18,14 +18,14 @@ DAX (Data Analysis Expressions)
 
 # Dataset Description
 The dataset contains transactional sales records including:
-Order Date
-Product Name
-Category
-Geography
-Customer Email ID
-Sales
-Quantity
-Profit
+* Order Date
+* Product Name
+* Category
+* Geography
+* Customer Email ID
+* Sales
+* Quantity
+* Profit
 
 # Dashboard KPIs
 KPI Values:
