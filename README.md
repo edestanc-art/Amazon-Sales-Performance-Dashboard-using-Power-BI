@@ -39,9 +39,9 @@ KPI Values:
 15%
 * TotalQuantity Sold
 12K
-*Total Quantity Sold
+* Total Quantity Sold
 12K
-Average Order Value
+* Average Order Value
 228.65
 # Dashboard Features
 Executive KPI Section
