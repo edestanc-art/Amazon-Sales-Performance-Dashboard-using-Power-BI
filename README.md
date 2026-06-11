@@ -102,13 +102,14 @@ Executive Dashboard
 
 Author:
 Ede Stan. C.
+
 Aspiring Data Analyst with expertise in:
-Statistics
-Power BI
-Excel
-Data Visualization
-Business Analytics
-Google Data Analytics Professional Certificate
+* Statistics
+* Power BI
+* Excel
+* Data Visualization
+* Business Analytics
+* Google Data Analytics Professional Certificate
 
 
 
