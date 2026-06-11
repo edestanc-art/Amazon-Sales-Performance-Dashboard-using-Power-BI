@@ -11,10 +11,10 @@ Organizations need visibility into sales trends, profitability, customer purchas
 * Who are the top customers?
 * How geographic regions perform best? * Power do sales change over time?
 
-Tools Used:
-Power BI
-Microsoft Excel
-DAX (Data Analysis Expressions)
+# Tools Used:
+* Power BI
+* Microsoft Excel
+* DAX (Data Analysis Expressions)
 
 # Dataset Description
 The dataset contains transactional sales records including:
