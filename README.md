@@ -46,12 +46,12 @@ KPI Values:
 # Dashboard Features
 Executive KPI Section
 Provides a high-level overview of business performance through:
-Total Sales
-Total Profit
-Total Orders
-Profit Margin
-Total Quantity
-Average Order Value
+* Total Sales
+* Total Profit
+* Total Orders
+* Profit Margin
+* Total Quantity
+* Average Order Value
 # Sales Trend Analysis
 Visualizes monthly sales performance to identify growth patterns and seasonal fluctuations.
 Product Performance Analysis
@@ -86,3 +86,8 @@ Regional Expansion
 Increase marketing and sales efforts in underperforming regions with growth potential.
 Product Portfolio Strategy
 Promote highly profitable products through targeted campaigns to increase overall Profitability.
+# Dashboard Preview
+Executive Dashboard
+
+
+
