@@ -27,7 +27,7 @@ Sales
 Quantity
 Profit
 
-Dashboard KPIs
+# Dashboard KPIs
 KPI Values:
 * Total Sales
 695.79K
@@ -43,7 +43,7 @@ KPI Values:
 12K
 Average Order Value
 228.65
-Dashboard Features
+# Dashboard Features
 Executive KPI Section
 Provides a high-level overview of business performance through:
 Total Sales
@@ -52,7 +52,7 @@ Total Orders
 Profit Margin
 Total Quantity
 Average Order Value
-Sales Trend Analysis
+# Sales Trend Analysis
 Visualizes monthly sales performance to identify growth patterns and seasonal fluctuations.
 Product Performance Analysis
 Highlights products contributing the highest revenue and profit.
@@ -62,7 +62,7 @@ Geographic Analysis
 Examines revenue contribution across different regions.
 Profitability Analysis
 Uses scatter plot visualization to compare sales and profit performance across products.
-Key Insights
+# Key Insights
 1. Strong Revenue Performance
 The business generated approximately 695.79K in sales revenue from over 3,000 customer orders.
 2. Healthy Profitability
@@ -75,7 +75,7 @@ Top customers generate substantially higher sales than the average customer, hig
 Sales performance differs significantly across regions, suggesting opportunities for targeted regional growth initiatives.
 6. Product Profitability Differences
 Some products generate high sales but comparatively lower profits, indicating potential pricing or cost optimization opportunities.
-Recommendations
+# Recommendations
 Inventory Optimization
 Prioritize stock management for top-performing products to prevent stockouts and maximize revenue.
 Customer Retention
@@ -85,4 +85,4 @@ Review products with high sales but low profit contribution to improve margins.
 Regional Expansion
 Increase marketing and sales efforts in underperforming regions with growth potential.
 Product Portfolio Strategy
-Promote highly profitable products through targeted campaigns to increase overall Profitability.#
+Promote highly profitable products through targeted campaigns to increase overall Profitability.
