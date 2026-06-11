@@ -100,7 +100,7 @@ Executive Dashboard
 * Business Insights Generation
 * Storytelling with Data
 
-Author
+Author:
 Ede Stan. C.
 Aspiring Data Analyst with expertise in:
 Statistics
